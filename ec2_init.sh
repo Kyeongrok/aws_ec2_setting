@@ -27,3 +27,5 @@ sudo yum install -y apache-maven
 sudo yum install -y java-1.8.0-openjdk-devel.x86_64
 
 
+# nginx
+sudo amazon-linux-extras install nginx1.12 -y
