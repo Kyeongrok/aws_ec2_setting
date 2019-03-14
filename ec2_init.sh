@@ -33,3 +33,7 @@ sudo amazon-linux-extras install nginx1.12 -y
 # python
 sudo yum install python3 -y
 sudo pip3 install boto3
+
+# nvm
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.0/install.sh | zsh
+. ~/.nvm/nvm.sh
